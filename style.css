@@ -1,22 +1,22 @@
 
 body {
     margin: 0%;
-    background-color: rgb(8, 99, 28);
+    background-color: rgb(255, 255, 28);
 }
 
 header{
 
-    background-color: rgb(83, 181, 105);
+    background-color: rgb(255, 255, 105);
     padding-bottom: 10%;
 }
 
 h1{
-    color: rgb(244, 242, 204);
+    color: rgb(255, 255, 204);
     display: inline-block;
     padding-left: 30%;
     padding-top: 5%;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    border: 2px solid rgb(244, 242, 204); 
+    border: 2px solid rgb(255, 255, 204); 
 }
 
 
