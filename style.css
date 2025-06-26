@@ -4,6 +4,7 @@ body {
     background-color:rgb(44, 101, 50);
 }
 
+
 header{
 
     background-image:url(./images/galerie6-pasta-divina.jpg);
@@ -38,7 +39,7 @@ nav{
     float: right;
     padding-right: 1%;
     margin:0%;    
-    
+    color: white;
     word-spacing: 1em ;
 }
 li{
@@ -51,3 +52,20 @@ li{
 li:hover{
     color: rgb(194, 78, 20);
 }
+main{
+    background-color: rgba(179, 165, 147, 0.897) ;
+
+}
+main h2{
+    text-align: center;
+}
+
+h3{
+    font-style: italic;
+}
+
+main p{
+    font-family: sans-serif;
+}
+
+
