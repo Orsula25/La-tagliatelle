@@ -1,24 +1,38 @@
 
 body {
-    margin: 0%;
-    background-color: rgb(8, 99, 28);
+    margin: 0;
+    background-color:rgb(44, 101, 50);
 }
 
 header{
 
-    background-color: rgb(83, 181, 105);
-    padding-bottom: 10%;
+    background-image:url(./images/galerie6-pasta-divina.jpg);
+    padding-bottom: 10%; 
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-color: black;
+
+    
+    
 }
 
 h1{
-    color: rgb(244, 242, 204);
+    color:rgb(239, 222, 195);
     display: inline-block;
-    padding-left: 30%;
-    padding-top: 5%;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    border: 2px solid rgb(244, 242, 204); 
+    background-color: rgba(110, 68, 12, 0.772) ;
+    border: 2px solid rgb(219, 219, 181);
+    padding: 7px;
+    border-radius: 5px;
+}
+h1:hover{
+    color: rgb(131, 188, 18);
 }
 
+div{
+    padding-left: 40%;
+    padding-top: 10%;
+}
 
 nav{
     float: right;
@@ -30,5 +44,10 @@ nav{
 li{
     display: inline;
     padding-top: 0%;
+    color:rgb(239, 222, 195);
     
+}
+
+li:hover{
+    color: rgb(194, 78, 20);
 }
